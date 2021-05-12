@@ -16,7 +16,7 @@
 * вспомогательные тестовые программы для шлюза LoRa-4G
 
     * [Uno_ThingSpeak_send_emu](Uno_ThingSpeak_send_emu) - программа для микроконтроллера Atmega328P LoRa модуля внутри шлюза LG01 для подготовки тестовых данных, сохранения их в локальный файл и их отправки на сервер ThinkSpeak из OpenWRT с помощью программы Curl. Использует библиотеки *Process* и *FileIO*.
-    * [ThingSpeak_send_LG01](ThingSpeak_send_LG0) - измененный вариант программы [Uno_ThingSpeak_send_emu](Uno_ThingSpeak_send_emu). Дополнительно использует библиотеку *Console* для вывода отладочной информации в консоль.
+    * [ThingSpeak_send_LG01](ThingSpeak_send_LG01) - измененный вариант программы [Uno_ThingSpeak_send_emu](Uno_ThingSpeak_send_emu). Дополнительно использует библиотеку *Console* для вывода отладочной информации в консоль.
 
 * шлюз LoRa-4G
 
